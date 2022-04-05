@@ -1,0 +1,16 @@
+- Configurar las cabeceras de la petición 
+npm init -yes --y
+npm i express morgan dotenv
+npm i -D nodemon
+-Configurar el package.json
+-Levantar el servidor básico con Morgan y habilitamos las peticiones en formato JSON (Código del index)
+- Crear carpeta routes y archivo contacts
+- En el index.js configurar nuestro archivo de rutas donde vamos a proceder todos los endpoints  con  /api/  y referenciamos el archivo con todas las rutas y métodos del objeto router. 
+- Crear archivo json y agregarle un contacto
+- Crear el primer get el index
+- Hacer las peticiones desde Postman 
+- en contacts agg la línea para leer el json y para parsearlo
+- Hacer la petición 
+- Crear la ruta get para motrar todo lo del json y hacer la petición
+- Crear la ruta para crear un nuevo contacto y hacer la petición, validar que no manden un contacto vacío, con id autoincrementable
+

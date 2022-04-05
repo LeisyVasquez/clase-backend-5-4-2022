@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "sdsd",
+    "telefono_1": "+578374",
+    "telefono_2": "+57983948",
+    "email": "juahsjdhad"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Pablo",
+    "telefono_1": "+578374",
+    "telefono_2": "+57983948",
+    "email": "juan@gmail.com"
+  }, 
+  {
+    "id": 3,
+    "nombre": "eeeeeee",
+    "telefono_1": "+578374",
+    "telefono_2": "+57983948",
+    "email": "juan@gmail.com"
+  }
+]
